@@ -5451,7 +5451,7 @@ vuepress-plugin-components@2.0.0-beta.236:
     vuepress-plugin-sass-palette "2.0.0-beta.236"
     vuepress-shared "2.0.0-beta.236"
 
-vuepress-plugin-copy-code2@2.0.0-beta.236:
+vuepress-plugin-copy-code2@2.0.0-beta.236, vuepress-plugin-copy-code2@^2.0.0-beta.236:
   version "2.0.0-beta.236"
   resolved "https://registry.npmmirror.com/vuepress-plugin-copy-code2/-/vuepress-plugin-copy-code2-2.0.0-beta.236.tgz#ac945778060e0d7b529f586a1d045de8b387e356"
   integrity sha512-mrtqtDDSDtAGSiqYlgwrovX1beIQfCFR3LVH6VT8JX032Sc1OA7az3+rjYLWfqgq8sbhF2r3pQdXdUGDhDcOJg==

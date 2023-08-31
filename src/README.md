@@ -4,13 +4,13 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: cute的博客小站
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 为生而生
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
+    name: 项目归档
+    desc: 这里是项目归类页面
     link: https://你的项目链接
 
   - icon: link
