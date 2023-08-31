@@ -9,20 +9,6 @@ export default defineUserConfig({
   description: "vuepress-theme-hope 的博客演示",
 
   theme,
-  plugins: [
-    copyCodePlugin({
-      locales: {
-        "/": {
-          // 覆盖复制按钮标签文字
-          copy: "复制此段代码",
-        },
-
-        "/xx/": {
-          // 在这里完整设置 `mm-NN` 的多语言配置
-        },
-      },
-    }),
-  ],
 
   // Enable it with pwa
   // shouldPrefetch: false,
